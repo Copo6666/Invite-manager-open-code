@@ -86,7 +86,7 @@ async function registerSlashCommands(dir) {
     });
 };
 registerSlashCommands('./commands/');
-client.login("Nzc2Mjc5NTMzMTM2NzczMTMx.G0hRi1.Beqxdnipp-tITbbaZFOfren-Qc7jU8mJWQenYM");
+client.login("Nzc2Mjc5NTMzMTM2NzczMTMx.GsNWKN.dStVkQ3cjJvzVHnbMG9aPcxWNfCbYkZMvIBu10");
 client.fetchApplication().then((application) => {
     let owners = application.owner;
     if(owners instanceof Team) {owners = owners.members.map(user => user.id)} else {owners = owners.id};

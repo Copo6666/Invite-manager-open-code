@@ -1,0 +1,1 @@
+{"version":2,"languages":{"nodejs-npm":{"specfileHash":"3b8b0b8dbdcd2d1ecbac6e69405576c1","lockfileHash":"ab8f12540691b36dca0bc3c41d1ecf78","guessedImports":["ms","figlet","chalk","sequelize","express","dotenv","discord-akairo","discord.js","lodash"],"guessedImportsHash":"149dcbc8e3b50082a82ae31240c3c4db"}}}
